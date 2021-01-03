@@ -17,7 +17,7 @@ __Note: This is a project that is written by an amateur, there are better ways t
 
 # Deployment
 1.  Make a copy of the [Google Sheets template][googlesheets] .
-2.  Make a copy of the [Google Apps Ccript code][appscript].
+2.  Make a copy of the [Google Apps Script code][appscript].
 3.  Copy the sheet id of the Google Sheet and paste into the first line of the App scripts file. replacing `15mSf09XUiFloem3V764MUET3wk-hf0KG2VYbB0QJgas`
 4.  Save the script and deploy as a new web app. Set access to anyone. 
 5.  Copy the webapp url and paste into cell `B3` of `config_env` sheet in the Google Sheet.
